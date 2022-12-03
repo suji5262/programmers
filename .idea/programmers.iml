@@ -3,7 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/lv1/두 수의 합" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lv0/두 수의 차" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lv0/두 수의 합" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
