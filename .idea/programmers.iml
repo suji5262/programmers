@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lv0/두 수의 차" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lv0/두 수의 합" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lv0/몫 구하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lv0/숫자 비교하기" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
